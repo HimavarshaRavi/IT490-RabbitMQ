@@ -2,6 +2,13 @@
 
 Setup RabbitMQ onto Ubuntu Linux
 
+
+Project by 
+Varsha Ravi
+Mariya Khan
+James Gilles
+Diego Mejia
+
 [STEP: 1]
 Ensure that the following packages are installed follow configuration 
 
@@ -63,6 +70,9 @@ Open a new browser tab and type into the url: localhost/blog.html
 ***>>Make the correct adjustment to the IP address & login info in the ->  vmdaj.ini
 This will allow the user the ability to see transactions through RabbitMQ. 
 
+
+//DISCLAIMER!
+//New User BE AWARE of MySQL input.  Make Adjustment to con.php to match a database created by a new user.
 
 
 
